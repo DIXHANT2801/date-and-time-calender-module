@@ -1,0 +1,14 @@
+from datetime import date,time,datetime
+today = date.today() 
+now = datetime.now()
+print("todays date is",today)
+print("current time iz",now)
+print("date compenents",today.year,today.month,today.day)
+
+
+
+
+
+
+
+
